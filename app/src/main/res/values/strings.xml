@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestViewFlipAnimator</string>
+    <string name="txt_front">正面</string>
+    <string name="txt_back">反面</string>
+</resources>
